@@ -16,5 +16,4 @@
 - 可视化图表（趋势图、堆叠面积图、双轴对比图）
 
 ## 项目截图
-
-
+<img width="1209" height="557" alt="sjt" src="https://github.com/user-attachments/assets/b52d4a5a-f044-4c6f-a6b2-1a7362db0df3" />
